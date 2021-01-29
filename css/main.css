@@ -7408,7 +7408,7 @@ Created using IcoMoon - icomoon.io
     box-shadow: none;
 }
 
-@media (max-width: 768px) {
+@media (max-width:768px) {
     .cc-reference .cc-reference-header {
         text-align: center;
     }
@@ -7483,3 +7483,8 @@ a.credit {
 }
 
 .cc-whatsapp {}
+
+.image-logos {
+    width: 200px;
+    height: 80px;
+}
