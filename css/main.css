@@ -5501,12 +5501,7 @@ Created using IcoMoon - icomoon.io
 
 .page-header[filter-color="orange"] {
     background: rgba(44, 44, 44, 0.2);
-    /* For browsers that do not support gradients */
-    /* For Safari 5.1 to 6.0 */
-    /* For Opera 11.1 to 12.0 */
-    /* For Firefox 3.6 to 15 */
     background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(224, 23, 3, 0.6));
-    /* Standard syntax */
 }
 
 .page-header .container {
@@ -7240,12 +7235,7 @@ Created using IcoMoon - icomoon.io
 
 .page-header {
     background: rgba(44, 44, 44, 0.2);
-    /* For browsers that do not support gradients */
-    /* For Safari 5.1 to 6.0 */
-    /* For Opera 11.1 to 12.0 */
-    /* For Firefox 3.6 to 15 */
-    background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
-    /* Standard syntax */
+    background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(96, 150, 186, 0.4));
 }
 
 .page-header .btn {
