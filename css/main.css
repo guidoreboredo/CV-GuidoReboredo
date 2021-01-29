@@ -7089,7 +7089,12 @@ Created using IcoMoon - icomoon.io
 .gallery .cc-porfolio-image figure img {
     position: relative;
     display: block;
-    max-width: 100%;
+    max-width: 90%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     opacity: 1;
 }
 
@@ -7148,7 +7153,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .gallery figure.cc-effect .h4 {
-    margin-top: 25%;
+    margin-top: 15%;
     transition: transform 0.35s;
     opacity: 0;
 }
@@ -7198,7 +7203,7 @@ Created using IcoMoon - icomoon.io
 }
 
 .gallery figure.cc-effect:hover figcaption:before {
-    background: rgba(27, 23, 23, 0.5);
+    background: rgba(27, 23, 23, 0.9);
 }
 
 .gallery figure.cc-effect:hover .h4,
@@ -7472,8 +7477,11 @@ a.credit {
     padding-bottom: 0;
 }
 
-.cc-whatsapp {}
+.footImage {
+    text-align: center;
+}
 
-.image-logos {
-    height: 80px;
+.titleImage {
+    margin-top: 10px;
+    margin-bottom: 5px;
 }
