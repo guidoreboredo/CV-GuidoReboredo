@@ -3617,7 +3617,7 @@ body {
     background-color: transparent !important;
     box-shadow: none;
     color: #FFFFFF;
-    padding-top: 26px;
+    padding-top: 4px;
 }
 
 .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item) {
