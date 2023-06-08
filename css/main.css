@@ -22,9 +22,9 @@
 :root {
     /* CSS HEX */
     --alice-blue: #e7ecefff;
-    --yale-blue: #274c77ff;
+    --yale-blue: #323232;
     --cerulean-frost: #6096baff;
-    --baby-blue-eyes: #a3cef1ff;
+    --baby-blue-eyes: #D1D1D1;
     --battleship-grey: #8b8c89ff;
 }
 
@@ -1543,6 +1543,7 @@ fieldset[disabled] .navbar .navbar-nav>a.btn.active {
 .btn-primary {
     background-color: var(--yale-blue);
     color: #FFFFFF;
+    font-weight: bold;
 }
 
 .btn-primary:hover,
@@ -7239,8 +7240,9 @@ Created using IcoMoon - icomoon.io
 /* Profile Page Background Style */
 
 .page-header {
+    /*
     background: rgba(44, 44, 44, 0.2);
-    background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(96, 150, 186, 0.4));
+    background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(96, 150, 186, 0.4));*/
 }
 
 .page-header .btn {
@@ -7284,10 +7286,10 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
     content: "";
-    border: 18px solid rgba(55, 99, 140, 0.6);
+    border: 18px solid rgba(22, 22, 22, 0.6);
     border-radius: 50%;
-    height: 220px;
-    width: 220px;
+    height: 300px;
+    width: 300px;
     position: absolute;
     left: 0;
     -webkit-animation: pulsate 1.6s ease-out;
@@ -7301,8 +7303,8 @@ Created using IcoMoon - icomoon.io
 .cc-profile-image img {
     position: relative;
     border-radius: 50%;
-    height: 220px;
-    width: 220px;
+    height: 300px;
+    width: 300px;
     padding: 0;
     margin: 0;
     border: 20px solid transparent;
